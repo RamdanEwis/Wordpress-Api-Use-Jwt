@@ -47,5 +47,7 @@ Endpoint | HTTP Verb
 #user this for posts website/wp-json/wp/v2/posts
 
 #all endpoint for users in file functions.php
+
+
 #use this url for woocommerce products
 https://woocommerce.github.io/woocommerce-rest-api-docs/?php#
