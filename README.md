@@ -1,7 +1,7 @@
 # Wordpress-Api-Use-Jwt
 
 
-#install this plugin JWT Authentication for WP-API
+##install this plugin JWT Authentication for WP-API
 Extends the WP REST API using JSON Web Tokens Authentication as an authentication method.
  | By Enrique Chavez | 
  
